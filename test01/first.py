@@ -1,0 +1,3 @@
+print ("subscribe!!!")
+
+print ("like!!!")
